@@ -1,0 +1,2 @@
+# JSE Financial Data Visualization and Regression Analysis
+The objective of this problem is to analyze a dataset that contains correlated variables, visualize the given dataset using different charts, describe the relevance of these visualizations, what insights we get by using the particular graph, and perform simple linear regression for any two correlated variables, determine all parameters including confidence intervals, and Model valuation by checking all assumptions, constructing the relevant plots and also by testing of hypothesis.
